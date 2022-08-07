@@ -1,6 +1,8 @@
 # <h1>URL Formatter</h1>
 
-URL Shortener made using TypeScript, React and MongoDB
+URL Formatter build with TypeScript, React and MongoDB
+
+<p>Server repository <a href="https://github.com/dauphaihau/url-formatter-server">here</a>. </p>
 
 ## Install Client (React Files)
 
