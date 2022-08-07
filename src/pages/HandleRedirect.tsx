@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useRouteMatch } from 'react-router-dom';
 import axios from 'axios';
+import style from './HomePage.module.css'
 import { SERVER_ENDPOINTS } from '../config';
 import { Container, Loading, Text } from '@nextui-org/react';
 

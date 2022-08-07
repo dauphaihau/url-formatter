@@ -25,8 +25,6 @@ const HomePage = () => {
 
   const finalURL = `${window.location.origin}/${shortUrl?.shortId}`;
 
-  console.log('test')
-
   return (
     <Container className={style.container}>
       <Toaster/>
